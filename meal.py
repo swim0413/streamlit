@@ -101,6 +101,7 @@ components.html(
             
             h1{{
                 margin-top: 40px;
+                font-family: 'Jua', sans-serif;
             }}
         </style>
         <body>
